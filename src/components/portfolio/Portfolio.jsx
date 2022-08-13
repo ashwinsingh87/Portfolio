@@ -12,43 +12,43 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Crypto Currency Dashboard',
-    github: 'https://github.com',
-    demo: '_blank'
+    github: 'https://github.com/ashwinsingh87',
+    demo: 'https://github.com/ashwinsingh87'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Table Maker',
-    github: 'https://github.com',
-    demo: '_blank'
+    github: 'https://github.com/ashwinsingh87',
+    demo: 'https://github.com/ashwinsingh87'
   },
   {
     id: 3,
     image: IMG3,
     title: 'Search Engine Optimization',
-    github: 'https://github.com',
-    demo: '_blank'
+    github: 'https://github.com/ashwinsingh87',
+    demo: 'https://github.com/ashwinsingh87'
   },
   {
     id: 4,
     image: IMG4,
     title: 'Calculator',
-    github: 'https://github.com',
-    demo: '_blank'
+    github: 'https://github.com/ashwinsingh87',
+    demo: 'https://github.com/ashwinsingh87'
   },
   {
     id: 5,
     image: IMG5,
     title: 'Chess Game',
-    github: 'https://github.com',
-    demo: '_blank'
+    github: 'https://github.com/ashwinsingh87',
+    demo: 'https://github.com/ashwinsingh87'
   },
   {
     id: 6,
     image: IMG6,
     title: 'Puzzle Game',
-    github: 'https://github.com',
-    demo: '_blank'
+    github: 'https://github.com/ashwinsingh87',
+    demo: 'https://github.com/ashwinsingh87'
   }
 ]
 
