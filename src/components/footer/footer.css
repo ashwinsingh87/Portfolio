@@ -16,19 +16,19 @@ footer a{
     display: inline-block;
 }
 
-.permalinks{
+/* .permalinks{
     display: flex;   
     flex-wrap: wrap;
     justify-content: center;
     gap: 2rem;
     margin: 0 auto 3rem;
-}
+} */
 
 .footer__socials{
     display:flex;
     justify-content: center;
     gap: 1rem;
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
 }
 
 .footer__socials a{
@@ -61,6 +61,6 @@ footer a{
         gap: 1.5rem;
     }
     .footer__socials{
-        margin-bottom: 2.6rem;
+        margin-bottom: 1.6rem;
     }
  }
