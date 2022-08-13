@@ -11,44 +11,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard',
-    github: 'https://github.com/ashwinsingh87',
-    demo: 'https://github.com/ashwinsingh87'
+    title: 'Vehicle Detection',
+    github: 'https://github.com/ashwinsingh87/VehicleDetection',
+    demo: 'https://github.com/ashwinsingh87/VehicleDetection'
   },
   {
-    id: 2,
-    image: IMG2,
-    title: 'Table Maker',
-    github: 'https://github.com/ashwinsingh87',
-    demo: 'https://github.com/ashwinsingh87'
+    id: 5,
+    image: IMG6,
+    title: 'File Organizer',
+    github: 'https://github.com/ashwinsingh87/file-organizer',
+    demo: 'https://github.com/ashwinsingh87/file-organizer'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Search Engine Optimization',
-    github: 'https://github.com/ashwinsingh87',
-    demo: 'https://github.com/ashwinsingh87'
+    title: 'Brick-Breaker-Game',
+    github: 'https://github.com/ashwinsingh87/Brick-Breaker-',
+    demo: 'https://github.com/ashwinsingh87/Brick-Breaker-'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Calculator',
-    github: 'https://github.com/ashwinsingh87',
-    demo: 'https://github.com/ashwinsingh87'
+    title: 'Web Scraping',
+    github: 'https://github.com/ashwinsingh87/Web-Scrapping',
+    demo: 'https://github.com/ashwinsingh87/Web-Scrapping'
   },
   {
-    id: 5,
+    id: 2,
     image: IMG5,
-    title: 'Chess Game',
-    github: 'https://github.com/ashwinsingh87',
-    demo: 'https://github.com/ashwinsingh87'
+    title: 'Portfolio Website',
+    github: 'https://github.com/ashwinsingh87/Portfolio',
+    demo: 'https://github.com/ashwinsingh87/Portfolio'
   },
   {
     id: 6,
-    image: IMG6,
-    title: 'Puzzle Game',
-    github: 'https://github.com/ashwinsingh87',
-    demo: 'https://github.com/ashwinsingh87'
+    image: IMG2,
+    title: 'Music Player Clone',
+    github: 'https://github.com/ashwinsingh87/Musicplayer',
+    demo: 'https://github.com/ashwinsingh87/Musicplayer'
   }
 ]
 

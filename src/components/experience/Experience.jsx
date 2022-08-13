@@ -37,21 +37,15 @@ const Experience = () => {
             </div>
             </article>
 
-            <article className='experience__details'>
-            <BsPatchCheckFill className='experience__details-icon'/>
-            <div>
-            <h4>Java</h4>
-            <small className='text-light' >Experienced</small>
-            </div>
-            </article>
+      
 
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
             <h4>Bootstrap</h4>
             <small className='text-light' >Experienced</small>
             </div>
-            </article>
+            </article> */}
 
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
@@ -67,11 +61,27 @@ const Experience = () => {
         <div className="experience__backend">
         <h3>Backend Development</h3>
           <div className="experience__content">
-
+{/* 
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
             <h4>NodeJS</h4>
+            <small className='text-light' >Experienced</small>
+            </div>
+            </article> */}
+
+            {/* <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+            <h4>PHP</h4>
+            <small className='text-light' >Intermediate</small>
+            </div>
+            </article> */}
+
+           <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+            <h4>Java</h4>
             <small className='text-light' >Experienced</small>
             </div>
             </article>
@@ -79,15 +89,7 @@ const Experience = () => {
             <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
-            <h4>PHP</h4>
-            <small className='text-light' >Intermediate</small>
-            </div>
-            </article>
-
-            <article className='experience__details'>
-            <BsPatchCheckFill className='experience__details-icon'/>
-            <div>
-            <h4>MySQL</h4>
+            <h4>SQL</h4>
             <small className='text-light' >Intermediate</small>
             </div>
             </article>
@@ -100,13 +102,13 @@ const Experience = () => {
             </div>
             </article>
 
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
               <h4>MangoDB</h4>
             <small className='text-light' >Experienced</small>
               </div>
-            </article>
+            </article> */}
 
           </div>
         </div>

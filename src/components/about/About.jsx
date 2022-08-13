@@ -22,13 +22,13 @@ const about = () => {
         <article className='about__card'>
           <FaAward className="about__icon"/>
           <h5>Experience</h5>
-          <small>3+ Year Working</small>
+          <small>0 Year Working</small>
         </article> 
         
         <article className='about__card'>
           <FaUsers className="about__icon"/>
           <h5>Clients</h5>
-          <small>100+ Worldwide</small>
+          <small>0 Worldwide</small>
         </article> 
         
         <article className='about__card'>
@@ -38,9 +38,8 @@ const about = () => {
         </article>
       </div>
     <p>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate adipisci, facilis culpa at esse aperiam pariatur vero! Adipisci quia illo ullam animi reiciendis vel nesciunt, dolorum, quas sunt debitis eligendi?
+    After being highly curious in technologies, i have tried many things and science behind that made me into the algorithms and website development which are now the part of my life. I will be using these knowledge to move in a positive direction for the company.    
     </p>
-
     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
     </div>
     </div>
