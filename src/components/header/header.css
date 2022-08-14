@@ -45,6 +45,7 @@ header {
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
+    display: flex;
     width: 22rem;
     height: 30rem;
     position: absolute;
@@ -60,6 +61,7 @@ header {
 
 .scroll_down {
     position: absolute;
+    display: flex;
     right: -2.3rem;
     bottom: 5rem;
     transform: rotate(90deg);
@@ -72,15 +74,15 @@ header {
 
 @media screen and (max-width:1024px) {
     header {
-        height: 68vh;
+        height: 100vh;
     }
 }
 
-@media screen and (max-width:992px) {
+/* @media screen and (max-width:992px) {
     header {
         height: 68vh;
     }
-}
+} */
 
 /* MEDIA QUERIES(PHONES) */
 
