@@ -10,27 +10,6 @@ import IMG6 from '../../assests/portfolio6.jpg'
 const data = [
   {
     id: 1,
-    image: IMG1,
-    title: 'Vehicle Detection',
-    github: 'https://github.com/ashwinsingh87/VehicleDetection',
-    demo: 'https://github.com/ashwinsingh87/VehicleDetection'
-  },
-  {
-    id: 5,
-    image: IMG6,
-    title: 'File Organizer',
-    github: 'https://github.com/ashwinsingh87/file-organizer',
-    demo: 'https://github.com/ashwinsingh87/file-organizer'
-  },
-  {
-    id: 3,
-    image: IMG3,
-    title: 'Brick-Breaker-Game',
-    github: 'https://github.com/ashwinsingh87/Brick-Breaker-',
-    demo: 'https://github.com/ashwinsingh87/Brick-Breaker-'
-  },
-  {
-    id: 4,
     image: IMG4,
     title: 'Tesla Clone',
     github: 'https://github.com/ashwinsingh87/Tesla-clone',
@@ -42,6 +21,27 @@ const data = [
     title: 'Portfolio Website',
     github: 'https://github.com/ashwinsingh87/Portfolio',
     demo: 'https://github.com/ashwinsingh87/Portfolio'
+  }, 
+   {
+    id: 3,
+    image: IMG3,
+    title: 'Brick-Breaker-Game',
+    github: 'https://github.com/ashwinsingh87/Brick-Breaker-',
+    demo: 'https://github.com/ashwinsingh87/Brick-Breaker-'
+  },
+  {
+    id: 4,
+    image: IMG1,
+    title: 'Vehicle Detection',
+    github: 'https://github.com/ashwinsingh87/VehicleDetection',
+    demo: 'https://github.com/ashwinsingh87/VehicleDetection'
+  },
+  {
+    id: 5,
+    image: IMG6,
+    title: 'File Organizer',
+    github: 'https://github.com/ashwinsingh87/file-organizer',
+    demo: 'https://github.com/ashwinsingh87/file-organizer'
   },
   {
     id: 6,
