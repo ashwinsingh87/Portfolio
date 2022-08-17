@@ -32,9 +32,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Web Scraping',
-    github: 'https://github.com/ashwinsingh87/Web-Scrapping',
-    demo: 'https://github.com/ashwinsingh87/Web-Scrapping'
+    title: 'Tesla Clone',
+    github: 'https://github.com/ashwinsingh87/Tesla-clone',
+    demo: 'https://github.com/ashwinsingh87/Tesla-clone'
   },
   {
     id: 2,
