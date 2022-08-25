@@ -11,7 +11,7 @@ const data = [
   {
     id: 1,
     image: IMG4,
-    title: 'Tesla Clone',
+    title: 'Tesla-Clone',
     github: 'https://github.com/ashwinsingh87/Tesla-clone',
     demo: 'https://github.com/ashwinsingh87/Tesla-clone'
   },
@@ -22,12 +22,12 @@ const data = [
     github: 'https://github.com/ashwinsingh87/Portfolio',
     demo: 'https://github.com/ashwinsingh87/Portfolio'
   }, 
-   {
+  {
     id: 3,
-    image: IMG3,
-    title: 'Brick-Breaker-Game',
-    github: 'https://github.com/ashwinsingh87/Brick-Breaker-',
-    demo: 'https://github.com/ashwinsingh87/Brick-Breaker-'
+    image: IMG2,
+    title: 'IMDB-Clone',
+    github: 'https://github.com/ashwinsingh87/imdb-clone',
+    demo: 'https://github.com/ashwinsingh87/imdb-clone'
   },
   {
     id: 4,
@@ -45,11 +45,12 @@ const data = [
   },
   {
     id: 6,
-    image: IMG2,
-    title: 'Music Player Clone',
-    github: 'https://github.com/ashwinsingh87/Musicplayer',
-    demo: 'https://github.com/ashwinsingh87/Musicplayer'
+    image: IMG3,
+    title: 'Brick-Breaker-Game',
+    github: 'https://github.com/ashwinsingh87/Brick-Breaker-',
+    demo: 'https://github.com/ashwinsingh87/Brick-Breaker-'
   }
+  
 ]
 
 const Portfolio = () => {
@@ -67,8 +68,8 @@ const Portfolio = () => {
           </div>
             <h3>{title}</h3>
            <div className="portfolio__item-cta">
-           <a href={github} className='btn' target= '_blank'>Github</a>
-            <a href={demo} className='btn btn-primary'target= '_blank'>Live Demo</a>
+           <a href={github} className='btn' target= '_blank' rel="noreferrer">Github</a>
+            <a href={demo} className='btn btn-primary'target= '_blank' rel="noreferrer">Live Demo</a>
            </div>
          
         </article>
