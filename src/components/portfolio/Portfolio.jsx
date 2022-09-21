@@ -12,22 +12,22 @@ const data = [
     id: 1,
     image: IMG4,
     title: 'Tesla-Clone',
-    github: 'https://github.com/ashwinsingh87/Tesla-clone',
-    demo: 'https://github.com/ashwinsingh87/Tesla-clone'
+    github: 'https://github.com/ashwinsingh87/tesla-redux',
+    demo: 'https://tesla-ashwin.netlify.app/'
   },
   {
     id: 2,
     image: IMG5,
     title: 'Portfolio Website',
     github: 'https://github.com/ashwinsingh87/Portfolio',
-    demo: 'https://github.com/ashwinsingh87/Portfolio'
+    demo: 'https://ashwinsingh87.github.io/Portfolio/'
   }, 
   {
     id: 3,
     image: IMG2,
     title: 'IMDB-Clone',
     github: 'https://github.com/ashwinsingh87/imdb-clone',
-    demo: 'https://github.com/ashwinsingh87/imdb-clone'
+    demo: 'https://imdb-ashwin.netlify.app/'
   },
   {
     id: 4,
